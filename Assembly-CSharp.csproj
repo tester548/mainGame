@@ -52,9 +52,10 @@
     <ImplicitlyExpandDesignTimeFacades>false</ImplicitlyExpandDesignTimeFacades>
   </PropertyGroup>
   <ItemGroup>
-     <Compile Include="Assets\Scripts\manager.cs" />
-     <Compile Include="Assets\RearWheelDrive.cs" />
      <Compile Include="Assets\EasySuspension.cs" />
+     <Compile Include="Assets\RearWheelDrive.cs" />
+     <Compile Include="Assets\Scripts\manager.cs" />
+     <Compile Include="Assets\Scripts\AmpelManager.cs" />
      <None Include="Assets\Customizable Skybox\Stylized Sky\Shaders\Stylized Sky.shader" />
  <Reference Include="UnityEngine">
  <HintPath>C:/Program Files/Unity/Hub/Editor/2020.3.33f1/Editor/Data/Managed/UnityEngine/UnityEngine.dll</HintPath>
